@@ -1,0 +1,1 @@
+%[x1,x2]function fr = horzcat(varargin)  fr = cat(2,varargin{:});end%  

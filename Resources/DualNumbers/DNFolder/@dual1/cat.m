@@ -1,0 +1,1 @@
+%catfunction fr = cat(n,varargin)  g0 = cell(1,nargin-1);  g1 = cell(1,nargin-1);    for k = 1:nargin-1    g0{k} = dual1(varargin{k}).f0;    g1{k} = dual1(varargin{k}).f1;  end    g0 = builtin('cat',n,g0{:});  g1 = builtin('cat',n,g1{:});    fr = dual1(g0,g1);end%

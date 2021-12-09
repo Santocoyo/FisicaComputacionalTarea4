@@ -1,0 +1,5 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[1] Config.pm:314> INFO - Logfile is 'Tarea4_Santoscoy.blg'
+[211] biber-MSWIN64:340> INFO - === 
+[283] Biber.pm:415> INFO - Reading 'Tarea4_Santoscoy.bcf'
+[471] Utils.pm:395> WARN - No data sources defined!
