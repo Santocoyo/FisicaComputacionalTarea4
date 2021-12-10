@@ -66,7 +66,9 @@
     \newpage
     \pagenumbering{arabic}
 
-    \section{Problema}
+    \section{Problemas}
+
+    \subsection{Problema 1}
 
     1. Grafique $y(x)$ para las siguientes ecuaciones diferenciales
 
@@ -205,6 +207,8 @@
 
     \end{enumerate}
 
+    \subsection{Problema 2}
+
     2. La ecuación de movimiento para un péndulo amoritugado es:
 
     \[
@@ -254,6 +258,8 @@
     \end{figure}
 
     Se puede observar el claro comportamiento oscilatorio. y la tendencia de equilibrio en 9.8, la cual coincide con el peso del objeto.
+
+    \subsection{Problema 3}
 
     3. Reproduzca la figura 5.b ($u_1(t) = u_2(t) = 0$) de la referencia [1]
 
@@ -353,6 +359,8 @@
         \includegraphics[width=16cm]{img/e3.png}
     \end{figure}
 
+    \subsection{Problema 4}
+
     4. Implemente los número duales y sobrecargue las siguientes funciones y operadores.
 
     \verb|(\^), (*), (+), (-), (/), (==), (!=), acos, acosh, asin, asinh, atan,|
@@ -413,7 +421,8 @@
 
     \begin{verbatim}
         function fr = power(x,y)
-            r = dual1(x.f0 .^ y.f0, (x.f0 .^ (y.f0-1)) .* (y.f1.*log(x.f0).*x.f0 + y.f0.*x.f1) );
+            r = dual1(x.f0 .^ y.f0, (x.f0 .^ (y.f0-1)) .* 
+            (y.f1.*log(x.f0).*x.f0 + y.f0.*x.f1) );
         endfunction
     \end{verbatim}
 
@@ -421,7 +430,8 @@
 
     \begin{verbatim}
         function fr = mpower(x,y)
-            fr = dual1(x.f0 .^ y.f0, (x.f0 .^ (y.f0-1)) .* (y.f1.*log(x.f0).*x.f0 + y.f0.*x.f1) );
+            fr = dual1(x.f0 .^ y.f0, (x.f0 .^ (y.f0-1)) .* 
+            (y.f1.*log(x.f0).*x.f0 + y.f0.*x.f1) );
         endfunction
     \end{verbatim}
 
@@ -573,7 +583,8 @@
 
     \begin{verbatim}
         function fr = atan2(x,y)
-            fr = dual1(atan2(x.f0, y.f0), (y.f0.*x.f1 - x.f0.*y.f1) ./ ((x.f0).^2 + (y.f0).^2));
+            fr = dual1(atan2(x.f0, y.f0), (y.f0.*x.f1 - x.f0.*y.f1) ./ 
+            ((x.f0).^2 + (y.f0).^2));
         endfunction
     \end{verbatim}
 
@@ -658,6 +669,8 @@
         erf(xd)
         abs(xd)
     \end{verbatim}
+
+    \subsection{Problema 5}
 
     5. Usando las funciones del ejercicio anterior, implemente $\nabla f(x0)$ y $Jf(x0)$; una función que permita calcular el gradiente y otra que calcule el Jacobiano de una función evaluada en el punto $x_0$.
 

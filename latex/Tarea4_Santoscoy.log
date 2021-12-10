@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6.28) (preloaded format=pdflatex 2021.7.6)  9 DEC 2021 23:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6.28) (preloaded format=pdflatex 2021.7.6)  9 DEC 2021 23:18
 entering extended mode
 **"c:/Users/alesa/OneDrive - Universidad Autonoma de Yucatan/UADY/9no Semestre/Fisica Computacional/ADA4/latex/Tarea4_Santoscoy.tex"
 (c:/Users/alesa/OneDrive - Universidad Autonoma de Yucatan/UADY/9no Semestre/Fisica Computacional/ADA4/latex/Tarea4_Santoscoy.tex
@@ -720,7 +720,7 @@ LaTeX Info: Redefining \nameref on input line 26.
 \@outlinefile=\write4
 \openout4 = `Tarea4_Santoscoy.out'.
 
-<./img/logo_UADY.png, id=7, 311.1625pt x 273.02pt>
+<./img/logo_UADY.png, id=27, 311.1625pt x 273.02pt>
 File: ./img/logo_UADY.png Graphic file (type png)
 <use ./img/logo_UADY.png>
 Package pdftex.def Info: ./img/logo_UADY.png  used on input line 32.
@@ -728,57 +728,42 @@ Package pdftex.def Info: ./img/logo_UADY.png  used on input line 32.
  [1
 
 {C:/Users/alesa/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./img/logo_UADY.png>]
-LaTeX Font Info:    Trying to load font information for U+esint on input line 71.
+LaTeX Font Info:    Trying to load font information for U+esint on input line 73.
  (C:\Users\alesa\AppData\Local\Programs\MiKTeX\tex/latex/esint\uesint.fd
 File: uesint.fd 
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 71.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 73.
  (C:\Users\alesa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 71.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 73.
  (C:\Users\alesa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1]
-<img/e1a.jpeg, id=32, 551.05875pt x 411.5375pt>
+<img/e1a.jpeg, id=52, 551.05875pt x 411.5375pt>
 File: img/e1a.jpeg Graphic file (type jpg)
 <use img/e1a.jpeg>
-Package pdftex.def Info: img/e1a.jpeg  used on input line 157.
+Package pdftex.def Info: img/e1a.jpeg  used on input line 159.
 (pdftex.def)             Requested size: 455.24408pt x 339.99359pt.
  [2]
-<img/e1b.jpeg, id=42, 552.0625pt x 404.51125pt>
+<img/e1b.jpeg, id=62, 552.0625pt x 404.51125pt>
 File: img/e1b.jpeg Graphic file (type jpg)
 <use img/e1b.jpeg>
-Package pdftex.def Info: img/e1b.jpeg  used on input line 203.
+Package pdftex.def Info: img/e1b.jpeg  used on input line 205.
 (pdftex.def)             Requested size: 455.24408pt x 333.58392pt.
  [3 <./img/e1a.jpeg>]
-<img/e2.png, id=47, 412.54124pt x 310.15875pt>
+<img/e2.png, id=67, 412.54124pt x 310.15875pt>
 File: img/e2.png Graphic file (type png)
 <use img/e2.png>
-Package pdftex.def Info: img/e2.png  used on input line 253.
+Package pdftex.def Info: img/e2.png  used on input line 257.
 (pdftex.def)             Requested size: 455.24408pt x 342.2689pt.
  [4 <./img/e1b.jpeg>] [5 <./img/e2.png>] [6]
-<img/e3.png, id=64, 417.05812pt x 307.90031pt>
+<img/e3.png, id=84, 417.05812pt x 307.90031pt>
 File: img/e3.png Graphic file (type png)
 <use img/e3.png>
-Package pdftex.def Info: img/e3.png  used on input line 353.
+Package pdftex.def Info: img/e3.png  used on input line 359.
 (pdftex.def)             Requested size: 455.24408pt x 336.11208pt.
- [7 <./img/e3.png>]
-Overfull \hbox (115.27843pt too wide) in paragraph at lines 418--418
-[]            \OT1/cmtt/m/n/12 r = dual1(x.f0 .^ y.f0, (x.f0 .^ (y.f0-1)) .* (y.f1.*log(x.f0).*x.f0 + y.f0.*x.f1) );[] 
- []
-
-
-Overfull \hbox (121.45343pt too wide) in paragraph at lines 426--426
-[]            \OT1/cmtt/m/n/12 fr = dual1(x.f0 .^ y.f0, (x.f0 .^ (y.f0-1)) .* (y.f1.*log(x.f0).*x.f0 + y.f0.*x.f1) );[] 
- []
-
-[8] [9] [10]
-Overfull \hbox (109.10342pt too wide) in paragraph at lines 578--578
-[]            \OT1/cmtt/m/n/12 fr = dual1(atan2(x.f0, y.f0), (y.f0.*x.f1 - x.f0.*y.f1) ./ ((x.f0).^2 + (y.f0).^2));[] 
- []
-
-[11] [12] [13] [14] (Tarea4_Santoscoy.aux
+ [7 <./img/e3.png>] [8] [9] [10] [11] [12] [13] [14] (Tarea4_Santoscoy.aux
 LaTeX Info: Redefining \sptext on input line 29.
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
@@ -787,23 +772,23 @@ LaTeX Info: Redefining \. on input line 30.
 LaTeX Info: Redefining \% on input line 30.
 )
 Package rerunfilecheck Info: File `Tarea4_Santoscoy.out' has not changed.
-(rerunfilecheck)             Checksum: 28FC85C4AD7FF67AE2DFA201FF54BF39;83.
+(rerunfilecheck)             Checksum: A24377A77A79458EDC6D901E58CDA5BC;638.
 Package logreq Info: Writing requests to 'Tarea4_Santoscoy.run.xml'.
 \openout1 = `Tarea4_Santoscoy.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20234 strings out of 478847
- 334883 string characters out of 2848387
- 1113868 words of memory out of 3000000
- 37870 multiletter control sequences out of 15000+600000
- 410005 words of font info for 54 fonts, out of 8000000 for 9000
+ 20246 strings out of 478847
+ 335066 string characters out of 2848387
+ 1114868 words of memory out of 3000000
+ 37877 multiletter control sequences out of 15000+600000
+ 410610 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,10n,81p,859b,2009s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/alesa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/alesa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/alesa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/alesa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/alesa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/alesa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/alesa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/alesa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/alesa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/alesa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/alesa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/alesa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Tarea4_Santoscoy.pdf (15 pages, 302948 bytes).
+Output written on Tarea4_Santoscoy.pdf (15 pages, 306057 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 34 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 177 PDF objects out of 1000 (max. 8388607)
+ 30 named destinations out of 1000 (max. 500000)
+ 74 words of extra memory for PDF output out of 10000 (max. 10000000)
 

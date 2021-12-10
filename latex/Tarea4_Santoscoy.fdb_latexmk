@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber Tarea4_Santoscoy"] 1639098082 "Tarea4_Santoscoy.bcf" "Tarea4_Santoscoy.bbl" "Tarea4_Santoscoy" 1639113297
-  "Tarea4_Santoscoy.bcf" 1639113195 106414 4d1b101b8f7d0f2b4e73e0dee694212a "pdflatex"
+["biber Tarea4_Santoscoy"] 1639098082 "Tarea4_Santoscoy.bcf" "Tarea4_Santoscoy.bbl" "Tarea4_Santoscoy" 1639113534
+  "Tarea4_Santoscoy.bcf" 1639113533 106414 4d1b101b8f7d0f2b4e73e0dee694212a "pdflatex"
   (generated)
-  "Tarea4_Santoscoy.blg"
   "Tarea4_Santoscoy.bbl"
-["pdflatex"] 1639113189 "c:/Users/alesa/OneDrive - Universidad Autonoma de Yucatan/UADY/9no Semestre/Fisica Computacional/ADA4/latex/Tarea4_Santoscoy.tex" "Tarea4_Santoscoy.pdf" "Tarea4_Santoscoy" 1639113297
+  "Tarea4_Santoscoy.blg"
+["pdflatex"] 1639113528 "c:/Users/alesa/OneDrive - Universidad Autonoma de Yucatan/UADY/9no Semestre/Fisica Computacional/ADA4/latex/Tarea4_Santoscoy.tex" "Tarea4_Santoscoy.pdf" "Tarea4_Santoscoy" 1639113534
   "C:/Users/alesa/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1625590416 9751048 376a07403faa64f57384198a2c38ab16 ""
   "C:/Users/alesa/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1632797070 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/alesa/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -136,20 +136,20 @@
   "C:/Users/alesa/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1622550326 10214 00ce62e730d0cfe22b35e8f1c84949c7 ""
   "C:/Users/alesa/AppData/Local/Programs/MiKTeX/tex/latex/tools/xspace.sty" 1622550326 4545 d84d0b20a11b9c36c6ecf45697be591c ""
   "C:/Users/alesa/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Tarea4_Santoscoy.aux" 1639113195 1556 3f042fdd1134acfff6b1754eb81eb37a "pdflatex"
+  "Tarea4_Santoscoy.aux" 1639113533 2403 cd03cc367c7974cb774854ef6f27b302 "pdflatex"
   "Tarea4_Santoscoy.bbl" 1639098093 0 d41d8cd98f00b204e9800998ecf8427e "biber Tarea4_Santoscoy"
-  "Tarea4_Santoscoy.out" 1639113195 83 28fc85c4ad7ff67ae2dfa201ff54bf39 "pdflatex"
-  "Tarea4_Santoscoy.run.xml" 1639113195 2308 e305de1cdb65e6c76d5f7911dc4b6833 "pdflatex"
-  "c:/Users/alesa/OneDrive - Universidad Autonoma de Yucatan/UADY/9no Semestre/Fisica Computacional/ADA4/latex/Tarea4_Santoscoy.tex" 1639113185 21040 7580ba85f4fa0b5d3921be456b7eb56b ""
+  "Tarea4_Santoscoy.out" 1639113533 638 a24377a77a79458edc6d901e58cda5bc "pdflatex"
+  "Tarea4_Santoscoy.run.xml" 1639113533 2308 e305de1cdb65e6c76d5f7911dc4b6833 "pdflatex"
+  "c:/Users/alesa/OneDrive - Universidad Autonoma de Yucatan/UADY/9no Semestre/Fisica Computacional/ADA4/latex/Tarea4_Santoscoy.tex" 1639113519 21238 14609897ef052c4b0650168ed9044ae8 ""
   "img/e1a.jpeg" 1639043132 12477 3468fce3885f4858212bf4820cd843e7 ""
   "img/e1b.jpeg" 1639043700 11784 9546d32afef788d65193c6f3f2e3341d ""
   "img/e2.png" 1639099775 7301 bf4059b6f5178c5bf67fab8c4e600952 ""
   "img/e3.png" 1639100473 8779 db7f69a8653c42d67f2827a3cc5dffd3 ""
   "img/logo_UADY.png" 1506997416 94691 51ae762fef320a6c82705de22de5fc01 ""
   (generated)
-  "Tarea4_Santoscoy.out"
-  "Tarea4_Santoscoy.log"
   "Tarea4_Santoscoy.pdf"
+  "Tarea4_Santoscoy.log"
+  "Tarea4_Santoscoy.out"
+  "Tarea4_Santoscoy.run.xml"
   "Tarea4_Santoscoy.bcf"
   "Tarea4_Santoscoy.aux"
-  "Tarea4_Santoscoy.run.xml"
