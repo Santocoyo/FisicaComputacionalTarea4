@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber Tarea4_Santoscoy"] 1639098082 "Tarea4_Santoscoy.bcf" "Tarea4_Santoscoy.bbl" "Tarea4_Santoscoy" 1639113534
+["biber Tarea4_Santoscoy"] 1639098082 "Tarea4_Santoscoy.bcf" "Tarea4_Santoscoy.bbl" "Tarea4_Santoscoy" 1639113883
   "Tarea4_Santoscoy.bcf" 1639113533 106414 4d1b101b8f7d0f2b4e73e0dee694212a "pdflatex"
   (generated)
   "Tarea4_Santoscoy.bbl"
   "Tarea4_Santoscoy.blg"
-["pdflatex"] 1639113528 "c:/Users/alesa/OneDrive - Universidad Autonoma de Yucatan/UADY/9no Semestre/Fisica Computacional/ADA4/latex/Tarea4_Santoscoy.tex" "Tarea4_Santoscoy.pdf" "Tarea4_Santoscoy" 1639113534
+["pdflatex"] 1639113528 "c:/Users/alesa/OneDrive - Universidad Autonoma de Yucatan/UADY/9no Semestre/Fisica Computacional/ADA4/latex/Tarea4_Santoscoy.tex" "Tarea4_Santoscoy.pdf" "Tarea4_Santoscoy" 1639113883
   "C:/Users/alesa/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1625590416 9751048 376a07403faa64f57384198a2c38ab16 ""
   "C:/Users/alesa/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1632797070 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/alesa/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -147,9 +147,9 @@
   "img/e3.png" 1639100473 8779 db7f69a8653c42d67f2827a3cc5dffd3 ""
   "img/logo_UADY.png" 1506997416 94691 51ae762fef320a6c82705de22de5fc01 ""
   (generated)
-  "Tarea4_Santoscoy.pdf"
   "Tarea4_Santoscoy.log"
-  "Tarea4_Santoscoy.out"
-  "Tarea4_Santoscoy.run.xml"
   "Tarea4_Santoscoy.bcf"
   "Tarea4_Santoscoy.aux"
+  "Tarea4_Santoscoy.run.xml"
+  "Tarea4_Santoscoy.out"
+  "Tarea4_Santoscoy.pdf"
