@@ -53,7 +53,7 @@ B4 = 1;
 C1 = 300;
 C2 = 600;
 
-fr = @(x,y) [(lambda - (y(1)*(beta*y(4) + epsilon_e*beta*y(2) + epsilon_q*beta*y(3) + epsilon_j*beta*y(5))/(y(1)+y(2)+y(3)+y(4)+y(5)+y(6))) - mu*y(1)), (p + (y(1)*(beta*y(4) + epsilon_e*beta*y(2) + epsilon_q*beta*y(3) + epsilon_j*beta*y(5))/(y(1)+y(2)+y(3)+y(4)+y(5)+y(6))) - (k1+mu)*y(2)), ((k2+mu)*y(3)), (k1*y(2) - (d1 + sigma1 + mu)*y(4)), (k2*y(3) - (d2 + sigma2 + mu)*y(5)), (sigma1*y(4) + sigma2*y(5) - mu*y(6))];
+fr = @(x,y) [(lambda - (y(1)*(beta*y(4) + epsilon_e*beta*y(2) + epsilon_q*beta*y(3) + epsilon_j*beta*y(5))/(y(1)+y(2)+y(3)+y(4)+y(5)+y(6))) - mu*y(1)), (p + (y(1)*(beta*y(4) + epsilon_e*beta*y(2) + epsilon_q*beta*y(3) + epsilon_j*beta*y(5))/(y(1)+y(2)+y(3)+y(4)+y(5)+y(6))) - (k1+mu)*y(2)), (-(k2+mu)*y(3)), (k1*y(2) - (d1 + sigma1 + mu)*y(4)), (k2*y(3) - (d2 + sigma2 + mu)*y(5)), (sigma1*y(4) + sigma2*y(5) - mu*y(6))];
 %fr = @(x,y) [(p + (y(1)*(beta*y(4) + epsilon_e*beta*y(2) + epsilon_q*beta*y(3) + epsilon_j*beta*y(5))/(y(1)+y(2)+y(3)+y(4))) - (k1+mu)*y(2)), ((k2+mu)*y(3)), (k1*y(2) - (d1 + sigma1 + mu)*y(4)), (k2*y(3) - (d2 + sigma2 + mu)*y(5))];
 
 %{
@@ -79,5 +79,5 @@ for i=1:size(sol)(1)
 endfor
 
 hold on;
-scatter(sol(:,1),sol(:,3)+sol(:,5),5,'filled');
+scatter(sol(:,1),sol(:,3)+sol(:,4)+sol(:,5)+sol(:,6),5,'filled');
 %scatter(sol(:,1),graph(:,1),5,'filled');

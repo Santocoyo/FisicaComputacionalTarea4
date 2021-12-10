@@ -44,6 +44,4 @@ sol = RK4(fr,a,b,y0,npts);
 
 
 hold on;
-scatter(sol(:,1),sol(:,2),3,'filled');
-
-clear all
+scatter(sol(:,1),m*g*cos(sol(:,2)),3,'filled');
